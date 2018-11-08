@@ -1,2 +1,5 @@
-# Wi-Fi-Hotspot-Locator
-A team project created for the spring CUNY Hackathon 2018, created by Michael Nurilov, Toby Au, and Aaron Taveras
+CUNY Hackathon 2018
+
+Project created by me, Aaron Taveras, and Michael Nurilov for CUNY Hackathon spring 2018. 
+
+Utilizes NYC Open Data and Google Maps API to help users locate unlocked WiFi hotspots near them.
